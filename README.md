@@ -11,7 +11,7 @@ Tech Stack Used :
    4.  Used Servlets to handle the request obtained from the webserver, process the request, produce the response, then send a response back to the webserver.
    5.  JQuery is used to provide the AJAX functionality that allowed web pages to be updated asynchronously by exchanging data with the server behind the scenes and for effects and animations
   # Home Page
-  ![image](https://user-images.githubusercontent.com/73352918/202896661-98c145dc-8b24-4c27-86f9-ad9ae893ecf9.png)
+  
   # Sign Up Page
   
   
