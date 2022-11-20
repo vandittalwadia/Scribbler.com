@@ -10,6 +10,7 @@ Tech Stack Used :
    3.  Applied Javascript , JQuery for Registration form validation at client-side.
    4.  Used Servlets to handle the request obtained from the webserver, process the request, produce the response, then send a response back to the webserver.
    5.  JQuery is used to provide the AJAX functionality that allowed web pages to be updated asynchronously by exchanging data with the server behind the scenes and for effects and animations
+   6.  MySql - JDBC Driver for database connectivity.
   # Home Page
   ![image](https://user-images.githubusercontent.com/73352918/202896972-4f0fa12b-d432-42bf-a80f-35316fb2cddc.png)
   # Sign Up Page
