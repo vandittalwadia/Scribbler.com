@@ -16,5 +16,7 @@ Tech Stack Used :
   ![image](https://user-images.githubusercontent.com/73352918/202897167-efd0fef9-5c63-488d-a637-01097c41316f.png)
   # Sign In Page
   ![image](https://user-images.githubusercontent.com/73352918/202897366-a7874590-93c5-4531-8420-e965cb459b1c.png)
-  # Scribbler Feed
+  # Scribblers Feed
   ![image](https://user-images.githubusercontent.com/73352918/202897484-65406211-3762-49e2-9860-17edba04d40f.png)
+  # Read More ..
+  ![image](https://user-images.githubusercontent.com/73352918/202897716-8cf77172-5e14-4510-bed5-54a1ba1bb681.png)
