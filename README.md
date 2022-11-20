@@ -22,3 +22,6 @@ Tech Stack Used :
   ![image](https://user-images.githubusercontent.com/73352918/202897716-8cf77172-5e14-4510-bed5-54a1ba1bb681.png)
   # Start Posting ..
   ![image](https://user-images.githubusercontent.com/73352918/202897980-e907269d-66cb-4103-be86-a38ef5798c83.png)
+  # User's Profile
+  ![image](https://user-images.githubusercontent.com/73352918/202898515-b1ab502e-e489-45e1-88a7-acef33557c39.png)
+  # Edit Profile
